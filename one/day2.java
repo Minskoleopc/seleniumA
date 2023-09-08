@@ -82,6 +82,25 @@ public class day2 {
 		
 		// submit()
 		
+		// <li id = "one">Apple</li>
+		
+		// Webelement vs Webdriver
+
+		//isSelected_radioB.findElement(null)
+		//isSelected_radioB.findElements(null)
+		//isSelected_radioB.isDisplayed();
+		//isSelected_radioB.isEnabled()
+		//isSelected_radioB.isSelected();
+		//isSelected_radioB.getText()
+		//isSelected_radioB.getAttribute("id")
+		//isSelected_radioB.getTagName();
+		//isSelected_radioB.getSize()
+		//isSelected_radioB.clear()
+		//isSelected_radioB.getLocation();
+		//isSelected_radioB.click()
+		//isSelected_radioB.submit(), it will only work on submit button of form
+		//isSelected_radioB.sendKeys(args)  // to type something on inputtext of element
+		//isSelected_radioB.getCssValue("font-weight")
 		
 		
 		
