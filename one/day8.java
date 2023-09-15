@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class day8 {
 
 	public static void main(String[] args) {
@@ -36,10 +38,24 @@ public class day8 {
 				break;
 			}
 		}
-			
+		
+		// Assertion 
+		System.out.println(dropdown.getFirstSelectedOption().getText());	
 		driver.close();
 		
+	
 		// how to handle multiple tabs in selenium.
+		// [C#, "Maven","Javascript"]
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 
