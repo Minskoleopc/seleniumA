@@ -104,9 +104,6 @@ public class day12 {
 		
 		
 		
-		
-	
-		
 		driver.close();
 	
 		driver.quit();
